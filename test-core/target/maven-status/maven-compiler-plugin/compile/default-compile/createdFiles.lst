@@ -1,0 +1,11 @@
+com\endava\utils\PropertyManager.class
+com\endava\context\ScenarioContext.class
+com\endava\utils\Driver.class
+com\endava\utils\TakeScreenshot.class
+com\endava\context\DataKeys.class
+com\endava\assertions\CustomAssertion.class
+com\endava\context\ButtonKeys.class
+com\endava\exceptions\IncorrectTabName.class
+com\endava\utils\TestLogHelper.class
+com\endava\exceptions\NotInitializedWebDriverException.class
+com\endava\utils\ReflectionsUtils.class
