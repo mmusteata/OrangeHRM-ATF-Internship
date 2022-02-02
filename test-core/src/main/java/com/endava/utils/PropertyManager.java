@@ -53,4 +53,8 @@ public class PropertyManager {
     public void test1(){
 
     }
+
+    public void test2(){
+
+    }
 }
