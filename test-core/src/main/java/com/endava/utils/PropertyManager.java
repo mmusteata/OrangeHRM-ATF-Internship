@@ -49,4 +49,12 @@ public class PropertyManager {
     public String getAdminPassword() {
         return adminPass;
     }
+
+    public void test1(){
+
+    }
+
+    public void test2(){
+
+    }
 }
